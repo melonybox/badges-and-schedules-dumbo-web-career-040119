@@ -13,4 +13,6 @@ def batch_badge_creator(list)
 end
 
 def assign_rooms(list)
-  
+  newList = []
+  list.each do |x|
+    newList.push(`Hello,)
