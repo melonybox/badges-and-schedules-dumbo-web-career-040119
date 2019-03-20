@@ -12,4 +12,4 @@ def batch_badge_creator(list)
   return newList
 end
 
-def
+def assign_rooms 
