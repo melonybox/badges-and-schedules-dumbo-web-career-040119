@@ -11,3 +11,5 @@ def batch_badge_creator(list)
   end
   return newList
 end
+
+def
