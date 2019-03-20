@@ -5,5 +5,11 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(list)
-  
+  i = 0
+  maxI = list.size
+  until i == maxI
+    newList.push(`Hello, my name is #{list[i]}.`)
+    i += 1
+  end
+  newList
 end
