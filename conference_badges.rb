@@ -11,5 +11,5 @@ def batch_badge_creator(list)
     newList.push(`Hello, my name is #{list[i]}.`)
     i += 1
   end
-  newList
+  return newList
 end
