@@ -14,5 +14,5 @@ end
 
 def assign_rooms(list)
   newList = []
-  list.each do |x|
+  list.each do |x,num|
     newList.push(`Hello,)
